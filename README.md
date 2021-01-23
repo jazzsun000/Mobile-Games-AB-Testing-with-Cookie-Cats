@@ -7,8 +7,8 @@ Because from the data we see, the level 30 retention_rate-D1 and retention_rate-
 
 ## Method of analysis:
 
-1.probability density function(pdf) plot
+1.Probability density function(pdf) plot
 
-2.bootstrap resampling
+2.Bootstrap resampling
 
 3.Calculating the probability that D1 vs D7 retention is greater when the gate is at level 30
