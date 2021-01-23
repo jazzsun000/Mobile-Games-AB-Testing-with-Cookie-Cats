@@ -1,5 +1,5 @@
 # Mobile-Games-AB-Testing-with-Cookie-Cats
-Purpose of analysis:
+## Purpose of analysis:
 
 To understand if we should move the gate from level 30 to level 40?
 
