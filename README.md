@@ -3,7 +3,8 @@
 
 To understand if we should move the gate from level 30 to level 40?
 
-Because from the data we see, the level 30 retention_rate-D1 and retention_rate-D7 are higher than level 40 retention_rate.
+As players progress through the levels of the game, they will occasionally encounter gates that force them to wait a non-trivial amount of time or make an in-app purchase to progress. In addition to driving in-app purchases, these gates serve the important purpose of giving players an enforced break from playing the game, hopefully resulting in that the player's enjoyment of the game being increased and prolonged.
+
 
 ## Method of analysis:
 
